@@ -13,4 +13,13 @@ A complete operating system simulator developed for my OS Lab course (Spring 202
 - **User Interface**: Terminal-based menu system
 
 ## Project Structure
-
+.
+├── calculator.cpp/h        # Calculator application
+├── notepad.cpp/h          # Notepad application
+├── clock.cpp/h            # Clock application
+├── calendar.cpp/h         # Calendar application
+├── file_operations/       # File management applications
+├── scheduler.cpp/h        # Round Robin scheduler
+├── resource_manager.cpp/h # Resource management
+├── main.cpp               # Main program
+└── README.md              # This file
